@@ -45,7 +45,7 @@ Mi tesis: un asistente para cuidadores informales de pacientes con cáncer, con 
 
 | Proyecto | Qué es | Tecnologías |
 |---|---|---|
-| [CAARolina](https://github.com/SantiagoAviles/CAARolina) | Bot de Telegram con **CCAR**, un algoritmo de hash propio hecho en equipo | Python |
+| [CAARolina](https://github.com/SantiagoAviles/CAARolina) | Bot de Telegram con **CCAR**, un algoritmo propio de cifrado y hash hecho en equipo | Python |
 | [FocaDefenders](https://github.com/SantiagoAviles/FocaDefenders) | Videojuego de escritorio con niveles y pruebas unitarias | Java · JUnit |
 | [DAReactReflex](https://github.com/SantiagoAviles/DAReactReflex) | LibroHub: la misma app hecha con React + PHP y con Reflex | React · PHP · Reflex |
 | [XTime](https://github.com/SantiagoAviles/XTime) | Sistema de control de asistencia con RBAC y reportes *(colaboración en equipo)* | Laravel · MySQL · Docker |
